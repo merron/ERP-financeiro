@@ -13,31 +13,22 @@ namespace Financeiro {
     public partial class _Default {
         
         /// <summary>
-        /// ScriptManager1 control.
+        /// txtDataInicial control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.ScriptManager ScriptManager1;
+        protected global::System.Web.UI.WebControls.TextBox txtDataInicial;
         
         /// <summary>
-        /// txtNome control.
+        /// txtDataFinal control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtNome;
-        
-        /// <summary>
-        /// chkTodos control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.CheckBox chkTodos;
+        protected global::System.Web.UI.WebControls.TextBox txtDataFinal;
         
         /// <summary>
         /// bntBuscar control.
@@ -49,12 +40,12 @@ namespace Financeiro {
         protected global::System.Web.UI.WebControls.Button bntBuscar;
         
         /// <summary>
-        /// grdFinanceiro control.
+        /// grdFolha control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView grdFinanceiro;
+        protected global::System.Web.UI.WebControls.GridView grdFolha;
     }
 }
