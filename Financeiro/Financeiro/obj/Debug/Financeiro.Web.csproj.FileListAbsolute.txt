@@ -1,5 +1,0 @@
-c:\users\ng\documents\visual studio 2010\Projects\Financeiro\Financeiro\bin\Financeiro.dll
-c:\users\ng\documents\visual studio 2010\Projects\Financeiro\Financeiro\bin\Financeiro.pdb
-c:\users\ng\documents\visual studio 2010\Projects\Financeiro\Financeiro\obj\Debug\ResolveAssemblyReference.cache
-c:\users\ng\documents\visual studio 2010\Projects\Financeiro\Financeiro\obj\Debug\Financeiro.dll
-c:\users\ng\documents\visual studio 2010\Projects\Financeiro\Financeiro\obj\Debug\Financeiro.pdb
